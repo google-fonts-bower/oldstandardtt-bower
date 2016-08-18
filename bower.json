@@ -1,0 +1,17 @@
+{
+    "name": "oldstandardtt-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Alexey Kryukov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/oldstandardtt-bower.git"
+    },
+    "description": "Old Standard TT font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
